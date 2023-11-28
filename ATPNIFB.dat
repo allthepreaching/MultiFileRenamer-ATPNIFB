@@ -186,7 +186,19 @@ FileExtension=1
 
 [Replace]
 Enabled=1
-From=Sermon Clip
+From=Sermon Clip   
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Sermon Clip  
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Sermon Clip 
 To=
 All=1
 
@@ -252,7 +264,7 @@ All=1
 
 [Replace]
 Enabled=1
-From=Pastor Stevem Anderson
+From=Pastor Steven Anderson
 To=
 All=1
 
@@ -396,6 +408,66 @@ All=1
 
 [Replace]
 Enabled=1
+From=Wednesday Pm
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Sunday Pm
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Sunday Am
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=1st
+To=1
+All=1
+
+[Replace]
+Enabled=1
+From=2nd
+To=2
+All=1
+
+[Replace]
+Enabled=1
+From=3rd
+To=3
+All=1
+
+[Replace]
+Enabled=1
+From=Chapter 
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Ch.
+To=
+All=1
+
+[Replace]
+Enabled=1
+From= Stedfast Baptist Church
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=And 
+To=& 
+All=1
+
+[Replace]
+Enabled=1
 From=     
 To= 
 All=1
@@ -417,8 +489,16 @@ Enabled=1
 From=  
 To= 
 All=1
+
 [Replace]
 Enabled=1
 From= 
 To=_
 All=1
+
+[Replace]
+Enabled=1
+From=_.mp4
+To=.mp4
+All=1
+
