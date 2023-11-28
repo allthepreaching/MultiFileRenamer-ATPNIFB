@@ -402,6 +402,12 @@ All=1
 
 [Replace]
 Enabled=1
+From= Usa
+To= USA 
+All=1
+
+[Replace]
+Enabled=1
 From=Nifb 
 To=NIFB 
 All=1
