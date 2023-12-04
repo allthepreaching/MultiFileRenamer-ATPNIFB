@@ -432,6 +432,18 @@ All=1
 
 [Replace]
 Enabled=1
+From= 1080p
+To=
+All=1
+
+[Replace]
+Enabled=1
+From= 720p
+To=
+All=1
+
+[Replace]
+Enabled=1
 From=1st
 To=1
 All=1
