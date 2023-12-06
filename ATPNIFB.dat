@@ -198,6 +198,18 @@ All=1
 
 [Replace]
 Enabled=1
+From=Ot
+To=OT
+All=1
+
+[Replace]
+Enabled=1
+From=Nt
+To=NT
+All=1
+
+[Replace]
+Enabled=1
 From=Sermon Clip  
 To=
 All=1
