@@ -12,6 +12,12 @@ All=1
 
 [Replace]
 Enabled=1
+From=&apos;
+To=
+All=1
+
+[Replace]
+Enabled=1
 From=@
 To=
 All=1
@@ -336,6 +342,12 @@ All=1
 
 [Replace]
 Enabled=1
+From=Bro Raymond Cooper
+To=
+All=1
+
+[Replace]
+Enabled=1
 From=Bro. Dillon Awes
 To=
 All=1
@@ -343,6 +355,12 @@ All=1
 [Replace]
 Enabled=1
 From=Bro. Ben Naim
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Bro. Raymond Cooper
 To=
 All=1
 
@@ -427,6 +445,60 @@ All=1
 [Replace]
 Enabled=1
 From=Sunday Am
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Wednesday PM
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Sunday PM
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Sunday AM
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Wednesday-Pm
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Sunday-Pm
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Sunday-Am
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Wednesday-PM
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Sunday-PM
+To=
+All=1
+
+[Replace]
+Enabled=1
+From=Sunday-AM
 To=
 All=1
 
