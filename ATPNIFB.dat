@@ -6,7 +6,25 @@ All=1
 
 [Replace]
 Enabled=1
+From=...
+To= 
+All=1
+
+[Replace]
+Enabled=1
 From=!
+To=
+All=1
+
+[Replace]
+Enabled=1
+From= Pt 
+To= Part 
+All=1
+
+[Replace]
+Enabled=1
+From='
 To=
 All=1
 
@@ -380,6 +398,12 @@ All=1
 Enabled=1
 From=Kjv 
 To=KJV 
+All=1
+
+[Replace]
+Enabled=1
+From=Sfbc 
+To=SFBC 
 All=1
 
 [Replace]
